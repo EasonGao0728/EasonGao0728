@@ -5,7 +5,7 @@
 <p align="center">
   <b>Xichen Gao · Eason</b><br />
   Undergraduate in Integrated Circuits at <b>Southeast University</b><br />
-  Exploring how AI can turn ideas into models, working systems, and better designs.
+  AI Agents · Mathematical Modeling · AI for EDA
 </p>
 
 <p align="center">
@@ -54,6 +54,10 @@ I use GitHub to document what I build, what I learn, and the questions I am stil
 - **Agents:** context management, tool use, feedback, and reproducibility.
 - **Modeling:** assumptions, numerical methods, validation, and scientific writing.
 - **EDA:** chip placement, physical design, and learning-based optimization.
+
+### Contact
+
+[213252440@seu.edu.cn](mailto:213252440@seu.edu.cn)
 
 ---
 
